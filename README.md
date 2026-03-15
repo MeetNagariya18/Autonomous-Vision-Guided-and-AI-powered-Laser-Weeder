@@ -1,11 +1,11 @@
 # Autonomous-Laser-Weeder
 An autonomous AI-powered robot that uses YOLOv8 and an ESP32-CAM to detect and target weeds with a laser gimbal .An end-to-end robotics project that uses machine learning to identify weeds among crops and targets them in real-time using a 2-axis laser gimbal.
 <br>
-Author - Meet Nagariya
+Author - Meet Nagariya ( main Character )
 
 ![Project Demo Image/GIF](link_to_your_image_here) *(Note: Replace this with a photo of your hardware or a GIF of the laser aiming!)*
 
-## 🚀 Project Overview
+## 🚀 Project 
 This project bridges computer vision and physical hardware to create a targeted weed-control system. An ESP32-CAM streams overhead video to a local machine, where a custom-trained YOLOv8 Nano model differentiates between crops and weeds. The coordinates of the detected weeds are mapped to pan-tilt angles and sent back to the microcontroller to aim a laser diode.
 
 ## 🛠️ System Architecture

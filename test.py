@@ -1,0 +1,1 @@
+print("Hello, this is a test file for the Autonomous Vision-Guided and AI-powered Laser Weeder project. ")
